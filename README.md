@@ -19,7 +19,7 @@ Easy to use web application where user can apply filters, rotate the image and f
 </ol>
 
 ## Deployment
-Site: new-image-editor.netlify.app
+Site: https://new-image-editor.netlify.app/
 
 ## Browser support
 * Chrome (latest)
@@ -28,3 +28,4 @@ Site: new-image-editor.netlify.app
 * Opera (latest)
 * Edge (latest)
 * Internet Explorer 10+
+
