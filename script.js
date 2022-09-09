@@ -116,7 +116,7 @@ const saveImage = () => {
     grayscale(${grayscale}%)`;
     context.translate(canvas.width / 2, canvas.height / 2);
     if (rotate != 0) {
-        context.rotate(rotate * Math.PI / 100);
+        context.rotate(rotate * Math.PI / 180);
     }
     context.scale(flipH, flipV);
     context.drawImage(previewImg, -canvas.width / 2, -canvas.height / 2, canvas.width, canvas.height);
